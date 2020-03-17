@@ -10,3 +10,9 @@ Links to design-related resources
 #### Color Pickers
 - Picular  - https://colornamer.netlify.com
    - Google, but for colors.
+   
+## Icons
+
+#### Icon Libraries
+- CSS Icons - https://css.gg
+   - 500+ CSS only icons
