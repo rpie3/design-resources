@@ -16,3 +16,9 @@ Links to design-related resources
 #### Icon Libraries
 - CSS Icons - https://css.gg
    - 500+ CSS only icons
+
+## Images (Stock & Placeholders)
+
+#### PLaceholders
+-Placeholder.com - https://placeholder.com
+   - Dynamically generate images of any size to use when templating HTML files
