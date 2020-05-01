@@ -19,6 +19,6 @@ Links to design-related resources
 
 ## Images (Stock & Placeholders)
 
-#### PLaceholders
+#### Placeholders
 -Placeholder.com - https://placeholder.com
    - Dynamically generate images of any size to use when templating HTML files
