@@ -21,6 +21,14 @@ Links to design-related resources
 
 ## Images (Stock & Placeholders)
 
+#### Open Source
+- Undraw.co - https://undraw.co
+   - Open source illustrations
+
 #### Placeholders
 - Placeholder.com - https://placeholder.com
    - Dynamically generate images of any size to use when templating HTML files
+
+#### Generators
+- patternico - https://patternico.com
+   - Generate patterns for backgrounds using Font Awesome icons or uploaded images
