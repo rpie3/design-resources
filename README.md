@@ -24,3 +24,5 @@ Links to design-related resources
 #### Placeholders
 - Placeholder.com - https://placeholder.com
    - Dynamically generate images of any size to use when templating HTML files
+- Fill Murray - https://www.fillmurray.com
+   - It's what you think. You can adjust image sizes in the URL.
