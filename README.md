@@ -26,3 +26,5 @@ Links to design-related resources
    - Dynamically generate images of any size to use when templating HTML files
 - Fill Murray - https://www.fillmurray.com
    - It's what you think. You can adjust image sizes in the URL.
+- This Person Does Not Exist - https://thispersondoesnotexist.com
+   - AI Generated Faces
