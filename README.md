@@ -15,7 +15,7 @@ Links to design-related resources
 
 #### Icon Libraries
 - CSS Icons - https://css.gg
-   - 500+ CSS only icons
+   - 700+ Open-source CSS, SVG and Figma UI Icons
 - Tabler - https://tablericons.com/
    - 550+ MIT Licensed, open source SVG Icons
 
