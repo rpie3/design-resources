@@ -8,7 +8,7 @@ Links to design-related resources
    - Enter a hex code, get a user-friendly name.
 
 #### Color Pickers
-- Picular  - https://colornamer.netlify.com
+- Picular  - https://picular.co
    - Google, but for colors.
    
 ## Icons
