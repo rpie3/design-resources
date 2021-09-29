@@ -18,6 +18,8 @@ Links to design-related resources
    - 700+ Open-source CSS, SVG and Figma UI Icons
 - Tabler - https://tablericons.com/
    - 550+ MIT Licensed, open source SVG Icons
+- Heroicons - https://heroicons.com
+   - 200+ MIT Licensed SVG & JSX Icons
 
 ## Images (Stock & Placeholders)
 
